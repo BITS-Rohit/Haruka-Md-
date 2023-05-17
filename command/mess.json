@@ -1,13 +1,25 @@
 {
-    "wait": "_Sedang Di Proses_",
+
+    "wait": "_Processing, Please Wait_",
+
     "error": {
-        "Iv": "Link yang kamu berikan tidak valid",
-        "api": "Maaf terjadi kesalahan"
+
+        "Iv": "Please, Try to give me a valid link",
+
+        "api": "Sorry not working "
+
     },
-    "OnlyGrup": "Perintah ini hanya bisa digunakan di grup",
-    "OnlyPM": "Perintah ini hanya bisa digunakan di private message",
-    "GrupAdmin": "Perintah ini hanya bisa digunakan oleh Admin Grup",
-    "BotAdmin": "Bot Harus menjadi admin",
-    "OnlyOwner": "Perintah ini hanya dapat digunakan oleh owner bot",
-    "OnlyPrem": "Perintah ini khusus member premium"
+
+    "OnlyGrup": "Bot is on Only group mode",
+
+    "OnlyPM": "Bot is on Only Personal Chat Mode",
+
+    "GrupAdmin": "Only Admims can use this command",
+
+    "BotAdmin": "Make the bot admin first",
+
+    "OnlyOwner": "This Command is only for my Owner Ayush",
+
+    "OnlyPrem": "Only for Premium Members"
+
 }
